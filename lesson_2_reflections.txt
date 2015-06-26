@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden directory of .git is created, In which all the changes are saved.
+This helps us to save all the commits and different versions os files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging is a area where  you to add the files that you wish to commit. 
+When ready to commit git bundles the entire staging area and commits.
