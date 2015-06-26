@@ -1,1 +1,8 @@
 When you want to create a remote repository rather than keeping all your work on local?
+
+protecting, sharing
+
+Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+
+to avoid adding all the unwanted files.
