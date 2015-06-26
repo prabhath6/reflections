@@ -7,3 +7,8 @@ How is the staging area different from the working directory and the repository?
 
 Staging is a area where  you to add the files that you wish to commit. 
 When ready to commit git bundles the entire staging area and commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Initially compare using git diff commands it shows all the changes made in all the
+files once done then add them to stagging area and then commit.
